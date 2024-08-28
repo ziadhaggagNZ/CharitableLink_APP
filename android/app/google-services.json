@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "179615682560",
+    "project_id": "charitablelink",
+    "storage_bucket": "charitablelink.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179615682560:android:ebdcf5e1f735d3b8e848e5",
+        "android_client_info": {
+          "package_name": "com.example.charitablelink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179615682560-79lql3vdnrd5jgtaol2449ab1hi03ks6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.charitablelink",
+            "certificate_hash": "12e19b45a8bb606d61e4f0843965a3b0f951b968"
+          }
+        },
+        {
+          "client_id": "179615682560-kjh3ouopk6pq9piocnqp7e37skfcipvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9HVCgv9TIx0EZFM68oi5_5d-5Vt_aNeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179615682560-kjh3ouopk6pq9piocnqp7e37skfcipvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
